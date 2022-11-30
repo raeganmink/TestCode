@@ -97,6 +97,8 @@ def readFastq(filename):
 
 def phred33ToQ(qual):
     return ord(qual) - 32
+    //dcjwdbsjwkcbdsjkcnk
+    //3dsbcjksdbcjknsdckmnsdm
 
 
 def createHist(qualities):
